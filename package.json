@@ -1,0 +1,12 @@
+{
+  "name": "intellisence",
+  "version": "0.0.1",
+  "description": "Monorepo intellisense issue(s)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx -y only-allow pnpm"
+  },
+  "author": "John van Dijk",
+  "license": "MIT"
+}
